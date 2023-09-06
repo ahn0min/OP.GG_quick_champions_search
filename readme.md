@@ -22,7 +22,7 @@
 3. 유저는 "카이사", "다리우스"등 챔피언명을 입력
 4. 챔피언명과 매칭되는 url을 새탭으로 open
 
-![Alt text](images\image.png)
+![image](https://github.com/ahn0min/OP.GG_quick_champions_search/assets/89904226/5364e837-8031-441d-a097-dfa7bd0314ea)
 
 ## 부가적인 설명
 
