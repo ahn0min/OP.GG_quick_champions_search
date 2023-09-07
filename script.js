@@ -1,4 +1,4 @@
-import getURL from "./getURL.mjs";
+import getURL from "./getURL.js";
 
 const urls = getURL();
 const searchForm = document.querySelector("#search_form");
